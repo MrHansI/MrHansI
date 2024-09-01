@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white&style=for-the-badge" height="25" alt="LeetCode Profile" />
   </a>
 </div>
-###
+
 
 <h3 align="left">🛠 Технологии:</h3>
 
